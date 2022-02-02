@@ -33,7 +33,7 @@
     ],
     "require": {
         "cweagans/composer-patches": "^1.6",
-        "thinktandem/minimis": "dev-8.x-1.x"
+        "vistar/minilev": "dev-8.x-1.x"
     },
     "require-dev": {
         "drush/drush": "^9.0",
